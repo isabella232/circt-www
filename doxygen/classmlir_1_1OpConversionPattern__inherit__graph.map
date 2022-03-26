@@ -1,0 +1,11 @@
+<map id="mlir::OpConversionPattern&lt; SourceOp &gt;" name="mlir::OpConversionPattern&lt; SourceOp &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,199,145"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="408,5,601,47"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="408,71,601,112"/>
+<area shape="rect" id="node6" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="408,136,601,177"/>
+<area shape="rect" id="node8" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="408,201,601,243"/>
+<area shape="rect" id="node3" href="$structHandshakeFuncOpLowering.html" title="Process of lowering:" alt="" coords="651,13,852,39"/>
+<area shape="rect" id="node5" href="$classAffineStoreLowering.html" title="Apply the affine map from an &#39;affine.store&#39; operation to its operands, and feed the results to a newl..." alt="" coords="675,78,828,105"/>
+<area shape="rect" id="node7" href="$structIfOpHoisting.html" title="Helper to hoist computation out of scf::IfOp branches, turning it into a mux&#45;like operation,..." alt="" coords="700,143,803,170"/>
+<area shape="rect" id="node9" href="$classAffineLoadLowering.html" title="Apply the affine map from an &#39;affine.load&#39; operation to its operands, and feed the results to a newly..." alt="" coords="676,209,827,235"/>
+</map>

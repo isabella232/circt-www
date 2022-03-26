@@ -1,0 +1,52 @@
+<map id="lib/Dialect/FIRRTL/Transforms/InferWidths.cpp" name="lib/Dialect/FIRRTL/Transforms/InferWidths.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2130,5,2334,47"/>
+<area shape="rect" id="node2" href="$FIRRTL_2Transforms_2PassDetails_8h.html" title=" " alt="" coords="1531,102,1640,129"/>
+<area shape="rect" id="node3" href="$FIRRTLOps_8h.html" title=" " alt="" coords="1350,184,1498,225"/>
+<area shape="rect" id="node14" href="$FIRRTLTypes_8h.html" title=" " alt="" coords="443,363,591,404"/>
+<area shape="rect" id="node22" href="$FieldRef_8h.html" title=" " alt="" coords="290,281,462,307"/>
+<area shape="rect" id="node34" href="$FIRRTLVisitors_8h.html" title=" " alt="" coords="1219,95,1367,136"/>
+<area shape="rect" id="node37" href="$Dialect_2FIRRTL_2Passes_8h.html" title=" " alt="" coords="1665,95,1813,136"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1837,102,2051,129"/>
+<area shape="rect" id="node42" title=" " alt="" coords="2075,102,2215,129"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2240,102,2400,129"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2425,102,2597,129"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2621,102,2771,129"/>
+<area shape="rect" id="node46" title=" " alt="" coords="2795,102,2962,129"/>
+<area shape="rect" id="node47" title=" " alt="" coords="2986,102,3195,129"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3219,102,3378,129"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3403,102,3565,129"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3589,102,3800,129"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1522,191,1649,218"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1673,184,1821,225"/>
+<area shape="rect" id="node4" href="$FIRRTLDialect_8h.html" title=" " alt="" coords="1169,452,1317,493"/>
+<area shape="rect" id="node11" href="$FIRRTLOpInterfaces_8h.html" title=" " alt="" coords="924,273,1089,315"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2139,370,2303,397"/>
+<area shape="rect" id="node20" href="$HWAttributes_8h.html" title=" " alt="" coords="1789,459,2019,486"/>
+<area shape="rect" id="node21" href="$HWTypes_8h.html" title=" " alt="" coords="616,370,819,397"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1165,281,1299,307"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1323,281,1525,307"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1549,281,1752,307"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1776,281,1989,307"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2013,273,2195,315"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2219,273,2405,315"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2430,273,2578,315"/>
+<area shape="rect" id="node5" href="$HWDialect_8h.html" title=" " alt="" coords="931,549,1143,575"/>
+<area shape="rect" id="node6" href="$LLVM_8h.html" title=" " alt="" coords="767,631,921,657"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1545,631,1732,657"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1154,631,1281,657"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1167,541,1318,583"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1343,541,1492,583"/>
+<area shape="rect" id="node12" href="$FIRRTLAnnotations_8h.html" title=" " alt="" coords="1618,541,1779,583"/>
+<area shape="rect" id="node13" href="$FIRRTLAttributes_8h.html" title=" " alt="" coords="843,363,991,404"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1016,370,1176,397"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1200,370,1363,397"/>
+<area shape="rect" id="node15" title=" " alt="" coords="637,459,755,486"/>
+<area shape="rect" id="node16" title=" " alt="" coords="465,452,613,493"/>
+<area shape="rect" id="node23" title=" " alt="" coords="5,370,123,397"/>
+<area shape="rect" id="node24" title=" " alt="" coords="147,370,339,397"/>
+<area shape="rect" id="node35" title=" " alt="" coords="982,191,1130,218"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1155,191,1325,218"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2124,191,2303,218"/>
+<area shape="rect" id="node39" title=" " alt="" coords="1845,191,1998,218"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2023,191,2100,218"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="circt::firrtl::InstancePathCache" name="circt::firrtl::InstancePathCache">
+<area shape="rect" id="node1" title="A data structure that caches and provides absolute paths to module instances in the IR." alt="" coords="1152,125,1328,166"/>
+<area shape="rect" id="node2" href="$classcirct_1_1firrtl_1_1InstanceGraph.html" title="This graph tracks modules and where they are instantiated." alt="" coords="761,73,948,100"/>
+<area shape="rect" id="node3" title=" " alt="" coords="327,56,518,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="317,5,529,32"/>
+<area shape="rect" id="node5" href="$classcirct_1_1firrtl_1_1InstanceGraphNode.html" title="This is a Node in the InstanceGraph." alt="" coords="312,239,533,265"/>
+<area shape="rect" id="node8" href="$classcirct_1_1firrtl_1_1InstanceRecord.html" title="This is an edge in the InstanceGraph." alt="" coords="758,311,951,337"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,173,197,214"/>
+<area shape="rect" id="node7" title=" " alt="" coords="9,239,193,265"/>
+<area shape="rect" id="node9" title=" " alt="" coords="327,313,518,369"/>
+<area shape="rect" id="node10" title=" " alt="" coords="375,393,470,420"/>
+<area shape="rect" id="node11" title=" " alt="" coords="58,289,145,316"/>
+<area shape="rect" id="node12" title=" " alt="" coords="741,125,968,166"/>
+<area shape="rect" id="node13" title=" " alt="" coords="377,136,468,163"/>
+<area shape="rect" id="node14" title=" " alt="" coords="787,191,923,217"/>
+</map>
